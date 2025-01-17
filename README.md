@@ -8,9 +8,9 @@
 - `Links.md` 파일에는 관련 학습 자료와 외부 링크가 정리되어 있습니다.
 
 ## ⭐책 목록
-| 책 이름                      | 책 표지                                                                         |
-|---------------------------|------------------------------------------------------------------------------|
-| Real MySQL 8.0 (1권)       | ![책](https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9791158392703.jpg) |
-| 면접을 위한 CS 전공지식 노트         | ![책](https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9791165219529.jpg) |
-| 자바/스프링 개발자를 위한 실용주의 프로그래밍 | ![책](https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9791158395155.jpg)                                                                       |
-| 이것이 자바다                   | ![책](https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9791169212298.jpg)|
+| 책 이름                                             | 책 표지                                                                         |
+|--------------------------------------------------|------------------------------------------------------------------------------|
+| Real MySQL 8.0 (1권)<br>(2024-07-11 – 2024-11-23) | ![책](https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9791158392703.jpg) |
+| 면접을 위한 CS 전공지식 노트<br>(2024-12-12 – 진행 중)         | ![책](https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9791165219529.jpg) |
+| 자바/스프링 개발자를 위한 실용주의 프로그래밍<br>(2024-11-30 - 진행 중) | ![책](https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9791158395155.jpg)                                                                       |
+| 이것이 자바다<br>(2025-01-16 – 진행 중)                   | ![책](https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9791169212298.jpg)|
