@@ -22,4 +22,4 @@
 | 9.2 기본 데이터 처리 ~ 9.4 쿼리 힌트 복습 | 세션 17: 2024-11-16 17:00-18:00 | @limeade23 - @EomHyeYeong - [@mango606](https://mandusitstudy.tistory.com/287)                                                                                                                                                                  |
 | 10.2 실행 계획 확인 ~ 10.3 실행 계획 분석  | 세션 18: 2024-11-23 17:00-18:00 | @limeade23 - @EomHyeYeong - [@mango606](https://mandusitstudy.tistory.com/295)                                                                                                                                                                  |
 
-* [@limeade 님의 블로그](https://devlog.limeade.me/)는 사라져서 링크를 추가하지 않았습니다.
+* [@limeade 님의 블로그](https://devlog.limeade.me/)는 현재 접근이 불가능해서 링크를 추가하지 않았습니다.
