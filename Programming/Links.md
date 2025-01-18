@@ -10,5 +10,5 @@
 | 06. 안티패턴 ~ 07. 서비스              | 세션 5: 2025-01-04 17:00-18:00  | @limeade23 - @EomHyeYeong - [@mango606](https://mandusitstudy.tistory.com/316) |
 | 08. 레이어드 아키텍처 ~ 09. 모듈         | 세션 6: 2025-01-18 17:00-18:00  | @limeade23 - @EomHyeYeong - [@mango606](https://mandusitstudy.tistory.com/319) |
 
-* @limeade 님은 OneNote에 정리해서 링크를 추가하지 않았습니다.
+* @limeade 님은 Obsidian에 정리해서 링크를 추가하지 않았습니다.
 * @EomHyeYeong 님은 Notion에 정리해서 링크를 추가하지 않았습니다.
